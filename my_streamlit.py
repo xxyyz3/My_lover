@@ -452,28 +452,28 @@ with col2:
             "身份": "高中生艺人",
             "性格": "毒舌 + 傲娇 + 温柔",
             "特点": "外冷内热",
-            "image": r"C:\Users\33684\Desktop\image\20200108195240_nvsun.jpg",
+            "image": "character_images/樱岛麻衣_full.jpg",
             "lover_comment": "那个笨蛋...整天说些傻话，真是让人放不下心。不过...偶尔他认真起来的样子，也还挺可靠的。"
         },
         "椎名真白": {
             "身份": "天才画家",
             "性格": "天然呆 + 单纯",
             "特点": "生活白痴",
-            "image": r"C:\Users\33684\Desktop\image\OIP-C.jpg",
+            "image": "avatars/椎名真白.png",
             "lover_comment": "林东君...是个温柔的人呢。会帮我准备颜料，还会提醒我吃饭。和他在一起，感觉很安心。"
         },
         "喜多川海梦": {
             "身份": "cosplayer",
             "性格": "开朗 + 热情",
             "特点": "社交达人",
-            "image": r"C:\Users\33684\Desktop\image\20220205122538_34f94.jpg",
+            "image": "avatars/喜多川海梦.png",
             "lover_comment": "林东~快来看看我新的cos服！嗯...有你在身边当我的摄影师，真是太棒了！爱你哟~"
         },
         "雷姆": {
             "身份": "女仆",
             "性格": "温柔 + 忠诚",
             "特点": "护主狂魔",
-            "image": r"C:\Users\33684\Desktop\image\20210829123827_edb47.jpg",
+            "image": "avatars/雷姆.png",
             "lover_comment": "主人...雷姆会永远陪伴在您身边。无论是清晨的咖啡，还是深夜的热茶，雷姆都会为您准备好。"
         }
     }
